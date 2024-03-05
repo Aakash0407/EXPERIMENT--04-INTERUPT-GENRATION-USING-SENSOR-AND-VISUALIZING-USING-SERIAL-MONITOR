@@ -2,7 +2,7 @@
 
 ###  NAME: Aakash P
 ###  ROLL NO : 212222110001
-###  DEPARTMENT: 
+###  DEPARTMENT: CSE(IOT)
 
 
 # EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
@@ -154,12 +154,18 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of serial port utility   :
- ![obstacle found](https://github.com/Aakash0407/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/118799103/81125598-4860-4c8a-9fd8-6380d4140a91)
 
- ## Circuit board :
+## Circuit board with Obstacle:
+<img src="https://github.com/Aakash0407/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/118799103/77624620-a097-4fc9-ba8a-bc468a5a91ba" width="700" height="800"> 
 
- ![On](https://github.com/Aakash0407/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/118799103/28fdb89b-b17e-4b92-ba98-ac56b40dd9f9)
+### Obstacle Found:
+<img src="https://github.com/Aakash0407/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/118799103/81125598-4860-4c8a-9fd8-6380d4140a91" width="900" height="800"> 
 
+## Circuit board Without obstacle:
+<img src="https://github.com/Aakash0407/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/118799103/da669acc-1171-4fee-a24f-3b21d04ce47d" width="700" height="800"> 
+
+### Obstacle NotFound:
+<img src="https://github.com/Aakash0407/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/118799103/680bba30-7ee6-4004-9d1b-c405b82f8720" width="900" height="800"> 
 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
